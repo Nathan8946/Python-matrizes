@@ -102,7 +102,7 @@ if __name__ == '__main__':
   
    #Resposta questão 1#
 
-   # print(f"Resultado questão 1:\n {matriz_mult(Matriz_A, Matriz_B)}\n")
+    print(f"Resultado questão 1:\n {matriz_mult(Matriz_A, Matriz_B)}\n")
     
     #Resposta  2 (A+b) + (4*c)#
     r2 = somar(somar(Matriz_A, Matriz_B), mult_escalar(Matriz_C,4))
